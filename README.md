@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating a common pointer-related error. The bug.c file shows the erroneous code, while bugSolution.c provides a corrected version.  The error involves pointer modification and potential issues in complex memory management scenarios.  The solution illustrates safer practices for handling pointers in C.
